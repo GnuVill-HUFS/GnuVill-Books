@@ -104,4 +104,10 @@
 
 
 
-[Scrapy쓰는 영상강의](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+[Scrapy쓰는 영상강의](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0/)[Scrapy쓰는 영상강의](https://www.inflearn.com/course/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81web-crawling-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+
+
+
+## 프로젝트할때 유용한 라이브러리는 무엇이 있을까요?
+
+[제가 주로 많이 쓰는 라이브러리 정리해놨습니다](https://github.com/GnuVill-HUFS/Docs_about_Project/blob/master/README.md)
